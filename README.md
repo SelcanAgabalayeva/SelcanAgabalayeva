@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Selcan 👋
 
-<!--
-**SelcanAgabalayeva/SelcanAgabalayeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer specializing in Java and Spring Boot.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Java
+- Spring Boot
+- Spring Data JPA
+- MySQL / PostgreSQL
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+
+### CV Builder System
+Spring Boot ilə hazırlanmış CV platforması (dynamic form + file upload)
+
+### Blog System
+CRUD əməliyyatlı blog sistemi (category + post)
+
+### Menu Management System
+Category və MenuItem strukturlu backend layihə
+
+---
+
+## 🎯 Current Focus
+Spring Security və REST API inkişafı
+
+---
+
+## 📫 Contact
+Email: selcanagabalayeva179@gmail.com
