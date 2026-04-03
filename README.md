@@ -15,6 +15,34 @@ Open to junior backend developer roles and opportunities to grow in backend engi
 - Git & GitHub
 
 ---
+## 💼 Experience
+
+## Java Backend Developer Intern
+ITB Techno | Jul 2025 – Nov 2025
+
+Developed backend components using Java and Spring Boot
+Built and tested RESTful APIs
+Worked with PostgreSQL and database design
+
+## Java Mentor
+ITBrains Academy | Apr 2025 – Mar 2026
+
+Taught Java and OOP concepts to beginners
+Assisted students with projects and code reviews
+Prepared learning materials and presentations
+
+## IT Intern
+Digital Development and Innovation Center | Oct 2024 – Jun 2025
+
+Participated in IT and software development projects
+Gained hands-on experience with Java and technical documentation
+
+## Java Backend Developer Intern
+DevLab  | Apr 2026 –(Present)
+
+Currently learning and contributing to backend development using Java and Spring Boot
+Assisting in building RESTful APIs and understanding backend architecture
+Improving skills in clean code and real-world application development
 
 ## 🚀 Projects
 ## CV Builder System
