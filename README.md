@@ -14,7 +14,7 @@ Backend Developer specializing in Java and Spring Boot.
 ---
 
 ## 🚀 Projects
-##CV Builder System
+## CV Builder System
 
 A CV management platform built with Spring Boot, featuring dynamic forms and file upload functionality.
 
