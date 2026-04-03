@@ -14,15 +14,25 @@ Backend Developer specializing in Java and Spring Boot.
 ---
 
 ## 🚀 Projects
+##CV Builder System
 
-### CV Builder System
-Spring Boot ilə hazırlanmış CV platforması (dynamic form + file upload)
+A CV management platform built with Spring Boot, featuring dynamic forms and file upload functionality.
 
-### Blog System
-CRUD əməliyyatlı blog sistemi (category + post)
+## Blog System
 
-### Menu Management System
-Category və MenuItem strukturlu backend layihə
+A blog application with full CRUD operations, including category and post management.
+
+## E-Commerce Vegetables
+
+An e-commerce backend system for selling vegetables, including product management, categories, and basic ordering functionality.
+
+## Furniture E-Commerce
+
+A backend system for a furniture store with product listings, category structure, and database management.
+
+## Shopper System
+
+A shopping platform backend that handles products, users, and order-related operations.
 
 ---
 
