@@ -1,6 +1,9 @@
 # Hi, I'm Selcan 👋
 
-Backend Developer specializing in Java and Spring Boot.
+Backend developer focused on building real-world applications using Java, Spring Boot, and PostgreSQL.
+I design and develop scalable REST APIs and backend systems with clean and maintainable architecture.
+Skills: Java, Spring Boot, Spring Data JPA, SQL, PostgreSQL, MySQL, REST APIs, Git.
+Open to junior backend developer roles and opportunities to grow in backend engineering.
 
 ---
 
