@@ -13,6 +13,7 @@ Open to junior backend developer roles and opportunities to grow in backend engi
 - Spring Data JPA
 - MySQL / PostgreSQL
 - Git & GitHub
+- Docker
 
 ---
 ## 💼 Experience
